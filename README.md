@@ -1,5 +1,7 @@
 # Implementation of Multivariate Linear Regression
 ## Aim
+developed by:adhithiyan.k
+registernumber:22001999
 To write a python program to implement multivariate linear regression and predict the output.
 ## Equipment’s required:
 1.	Hardware – PCs
